@@ -37,6 +37,17 @@ I graduated from **Shanghai Jiao Tong University (SJTU)** in June 2024, where I 
 - **Research areas:** Natural Language Processing, Machine Learning, Large Language Models, Vision-Language Models
 - **Topics:** LLM Reasoning, Reinforcement Learning, Hallucination Mitigation, Model Truthfulness, Interpretability
 
+## Publications
+
+A full list is also available on the [publications page](/LJT-Homepage/publications/).
+
+- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, Arxiv) — *First author*
+- **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, Arxiv) — *First author*
+- **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024) — *First author*
+- **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024)
+- **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023)
+- **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023)
+
 ## Contact
 
 - **Email:** [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)

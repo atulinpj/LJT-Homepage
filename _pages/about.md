@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Home"
+permalink: /
 ---
 
 I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, supervised by Professor Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024, where I was previously advised by Professor Junxian He during my undergraduate studies.
